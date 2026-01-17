@@ -1,3 +1,5 @@
 python-telegram-bot
-ccxt
 python-dotenv
+pandas_ta
+pandas
+git+https://github.com/luislongo/expertoptionapi.git
